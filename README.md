@@ -5,12 +5,12 @@
 ---
 
 ## Table of contents
-- Description
-- About dataset
-- Approach
-- Algorithms
-- Technologies
-- How to use
+- [Description](##Description)
+- [About Dataset](##About-Dataset)
+- [Approach](##Approach)
+- [Algorithms](##Algorithms/Techniques)
+- [Technologies](##Technologies/Modules)
+- [How to use](##How-to-use)
 
 ## Desciption
 
@@ -44,6 +44,8 @@ https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 - Word embedding 
 - Nueral Network
 
+---
+
 ## Technologies/Modules
 
 - Python
@@ -53,6 +55,8 @@ https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 - labelEncoding
 - Tensorflow
 - Keras
+
+[Back to top](#Womens-Clothing-E-Commerce-Dataset)
 
 ---
 
